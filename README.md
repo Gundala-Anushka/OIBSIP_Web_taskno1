@@ -30,10 +30,10 @@ No JavaScript or third-party libraries were used, keeping the project lightweigh
 
 
 ## 📷 Screenshots
-![Hero Section][Screenshot (43)](https://github.com/user-attachments/assets/cd8d2200-7c55-42e7-be96-09ecc4aa8a3a)
+![Hero Section]![Screenshot (43)](https://github.com/user-attachments/assets/cd8d2200-7c55-42e7-be96-09ecc4aa8a3a)
 
 ### 🖼️ Services Section 
-![Services Section]![Screenshot (44)](https://github.com/user-attachments/assets/153f574e-a895-41ab-98dc-bf41077f60db)![Screenshot (45)](https://github.com/user-attachments/assets/b9373dfd-ffa2-432e-99a6-8b7057794d23)
+![Services Section]![Screenshot (44)](https://github.com/user-attachments/assets/153f574e-a895-41ab-98dc-bf41077f60db)
 
 ### 🖼️ Testimonials Section
 ![Testimonials Section]![Screenshot (45)](https://github.com/user-attachments/assets/e02dc0bd-a7ac-4ac0-ac67-fe54e6b0e053)
