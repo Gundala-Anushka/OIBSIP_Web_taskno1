@@ -22,23 +22,24 @@ The focus was on creating a clean and aesthetic layout using beige and pink colo
 
 No JavaScript or third-party libraries were used, keeping the project lightweight and easy to understand.
 
-## 💡 Features
+## 💡 Features!
 
 - Soft, elegant color scheme to reflect beauty and wellness
 - Semantic HTML structure
 - Custom styling with attention to typography and layout
 
+
 ## 📷 Screenshots
-![Hero Section](images/Screenshot_43.png)
+![Hero Section][Screenshot (43)](https://github.com/user-attachments/assets/cd8d2200-7c55-42e7-be96-09ecc4aa8a3a)
 
 ### 🖼️ Services Section 
-![Services Section](images/Screenshot_44.png)
+![Services Section]![Screenshot (44)](https://github.com/user-attachments/assets/153f574e-a895-41ab-98dc-bf41077f60db)![Screenshot (45)](https://github.com/user-attachments/assets/b9373dfd-ffa2-432e-99a6-8b7057794d23)
 
 ### 🖼️ Testimonials Section
-![Testimonials Section](images/Screenshot_45.png)
+![Testimonials Section]![Screenshot (45)](https://github.com/user-attachments/assets/e02dc0bd-a7ac-4ac0-ac67-fe54e6b0e053)
 
 ### 🖼️ Contact Us Section
-![Contact Section](images/Screenshot_56.png)
+![Contact Section]![Screenshot (56)](https://github.com/user-attachments/assets/0201d298-e7b4-46f8-91b5-aaae19d3b8b7)
 
 ## 📬 Contact
 
