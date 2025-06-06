@@ -31,7 +31,7 @@ No JavaScript or third-party libraries were used, keeping the project lightweigh
 ## 📷 Screenshots
 ![Hero Section](images/Screenshot_43.png)
 
-### 🖼️ Services Section
+### 🖼️ Services Section 
 ![Services Section](images/Screenshot_44.png)
 
 ### 🖼️ Testimonials Section
